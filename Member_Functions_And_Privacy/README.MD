@@ -22,5 +22,4 @@ Engineered a comprehensive Train class in C++ to illustrate proficiency in class
 - **State Management:** Mastered the use of member functions to query and alter the state of objects, implementing a safe empty state to handle invalid or incomplete data.
 - **Output Precision:** Utilized C++ standard library facilities to format data outputs, improving the clarity and professionalism of console outputs.
 - **Proactive Problem Solving:** Developed a keen sense for proactive problem-solving by identifying and implementing needed functionalities beyond basic requirements, such as nuanced passenger transfer logic in a real-world simulation.
-- Enhanced understanding of real-world application development through practical implementation of theoretical concepts.
-- Gained proficiency in C++ programming, focusing on modern practices and efficient code structuring for scalable solutions.
+
